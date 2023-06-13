@@ -18,7 +18,10 @@ I confirm that Visual studio code is easy and simple to use to all the upcoming 
 My name is Noreen Magaya and I'm an upcoming front end developer in the making, young and focused girl who's passionate about coding and do everything I do with love.
 
 GitHub: Nono0007
+
 Tweeter: Nonomagaya
+
 Deployed link: https://nono0007.github.io/Portfolio-Project/
+
 LinkedIn: https://www.linkedin.com/in/noreen-magaya-037249248/
 
