@@ -1,7 +1,7 @@
 # Portfolio-Project
 My project helps people to Know me better who's Noreen, what she do and what she likes. I develop this website alone. I created this project for me and focused on me to help myself to show myself to the world and to show case what I can do as a junior developer and to boost my front end skills as I was designing this website.
 I do discover that I love myself and the only way to put myself out there is to introduce myself in a unique way, by telling people who am I. I also learn that it all begins with me the way I market myself the way people discover me fast and want to try me.
-Here is the link https://lnkd.in/dvNE4-mgto data flow chart feel free to check it out. I use the following technologies to create my website HTML5, CSS, JS
+Here is the link https://lnkd.in/dvNE4-mg to data flow chart feel free to check it out. I use the following technologies to create my website HTML5, CSS, JS
 
 I opted to use these 3 because I want to specialize in front end and these 3 are the best and it helped me a lot to understand JS and how to use it properly and HTML and JS is the best when it comes to front end and website developing.
 Feature: The website is responsive and compatible with mobile and any device, this means users can access the project from a mobile view.
